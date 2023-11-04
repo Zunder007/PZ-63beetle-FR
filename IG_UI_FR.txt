@@ -1,0 +1,29 @@
+IG_UI_FR = {
+	IGUI_VehicleName63beetle = "'63 Volkswagen 1300 Beetle"
+	IGUI_VehicleName63beetleHP = "'63 Volkswagen Beetle Haute performance"
+	IGUI_VehicleName63beetleBuggy = "'63 Volkswagen Beetle Dune Buggy"
+
+	IGUI_VehiclePartBTL63FrontBumper = "Pare-choc avant",
+	IGUI_VehiclePartBTL63RearBumper = "Pare-choc arrière",
+	IGUI_VehiclePartBTL63Sidesteps = "Cotés",
+	IGUI_VehiclePartBTL63Bodykit = "Kit carrosserie",
+	IGUI_VehiclePartBTL63Spare = "Pneu de rechange",
+	IGUI_VehiclePartBTL63SpareA = "Pneu de rechange",
+	IGUI_VehiclePartBTL63SpareB = "Pneu de rechange",
+	IGUI_VehiclePartBTL63SpareC = "Pneu de rechange",
+	IGUI_VehiclePartBTL63SpareD = "Pneu de rechange",
+	IGUI_VehiclePartBTL63Roof = "Toit amovible",
+	IGUI_VehiclePartBTL63SmallSpoiler = "Becquet",
+	IGUI_VehiclePartBTL63BuggySpoiler = "Becquet",
+
+	IGUI_VehiclePartBTL63Trunk = "Rangement de coffre",
+	IGUI_VehiclePartBTL63InnerTrunk = "Rangement de coffre arrière",
+	IGUI_VehiclePartBTL63Roofrack = "Galerie de toit",
+
+	IGUI_VehiclePartBTL63WindshieldArmor = "Armure de pare-brise",
+	IGUI_VehiclePartBTL63FrontLeftArmor = "Armure de fenêtre avant gauche",
+	IGUI_VehiclePartBTL63FrontRightArmor = "Armure de fenêtre avant droite",
+	IGUI_VehiclePartBTL63RearLeftArmor = "Armure de vitre arrière gauche",
+	IGUI_VehiclePartBTL63RearRightArmor = "Armure de vitre arrière droite",
+	IGUI_VehiclePartBTL63WindshieldRearArmor = "Armure de pare-brise arrière",
+}
