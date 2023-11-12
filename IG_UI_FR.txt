@@ -26,4 +26,6 @@ IG_UI_FR = {
 	IGUI_VehiclePartBTL63RearLeftArmor = "Blindage de vitre arrière gauche",
 	IGUI_VehiclePartBTL63RearRightArmor = "Blindage de vitre arrière droite",
 	IGUI_VehiclePartBTL63WindshieldRearArmor = "Blindage de pare-brise arrière",
+
+	IGUI_CraftCategory_BTL63 = "'63 Volkswagen 1300 Beetle",
 }
