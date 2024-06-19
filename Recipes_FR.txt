@@ -17,4 +17,15 @@ Recipes_FR = {
 	Recipe_Make_63beetle_Windshield = "Fabriquer Pare-brise",
 	Recipe_Make_63beetle_Windshield_Armor = "Fabriquer Blindage de Pare-brise",
 	Recipe_Make_63beetle_Windshield_Rear = "Fabriquer Pare-brise arrière",
+
+	Recipe_Dismantle_Beetle_Armor = "Démonter Blindage",
+	Recipe_Dismantle_Beetle_Door = "Démonter Portière",
+	Recipe_Dismantle_Beetle_Lid = "Démonter Coffre",
+	Recipe_Dismantle_Beetle_Roofrack = "Démonter Galerie de toit",
+	Recipe_Dismantle_Beetle_Seat = "Démonter Siège",
+	Recipe_Dismantle_Beetle_Tire = "Démonter Pneu",
+	Recipe_Make_Vehicle_Front_Bumper = "Fabriquer Pare-choc avant",
+	Recipe_Make_Vehicle_Rear_Bumper = "Fabriquer Pare-choc arrière",
+	Recipe_Make_Vehicle_Roofrack = "Fabriquer Galerie de toit",
+	Recipe_Make_Vehicle_Sidesteps = "Fabriquer Cotés",
 }
